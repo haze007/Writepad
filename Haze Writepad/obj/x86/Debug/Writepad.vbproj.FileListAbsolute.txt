@@ -1,0 +1,12 @@
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\bin\Debug\Writepad.exe
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\bin\Debug\Writepad.pdb
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\bin\Debug\Writepad.xml
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\Writepad.Form1.resources
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\Writepad.Resources.resources
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\Writepad.exe
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\Writepad.xml
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\Writepad.pdb
+C:\Users\aadil ahmed\AppData\Local\Temporary Projects\Writepad\obj\x86\Debug\Writepad.Form2.resources
